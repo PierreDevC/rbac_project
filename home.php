@@ -3,8 +3,8 @@
 <div class="container">
     <div class="row">
         <div class="col-md-8 mx-auto text-center">
-            <h1 class="display-4 mb-4">Welcome to AuthSystem</h1>
-            <p class="lead mb-5">A secure authentication system with Role Based Access Control</p>
+            <h1 class="display-4 mb-4">Bienvenue sur CryptoTrade</h1>
+            <p class="lead mb-5">Une application de trading de crypto-monnaies sécurisée</p>
             
             <?php if (!isset($_SESSION['user_id'])): ?>
                 <div class="d-flex justify-content-center gap-3">

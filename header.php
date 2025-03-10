@@ -108,7 +108,7 @@ require_once 'config.php';
 <body>
     <nav class="navbar navbar-expand-lg navbar-light mb-4">
         <div class="container">
-            <a class="navbar-brand" href="home.php">AuthSystem</a>
+            <a class="navbar-brand" href="home.php">CryptoTrade</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -144,3 +144,4 @@ require_once 'config.php';
             </div>
         </div>
     </nav>
+</body>
